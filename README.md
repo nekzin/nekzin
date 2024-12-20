@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**nekzin/nekzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on КУРСАЧ
 - 🌱 I’m currently learning СИШАРП
 - 👯 I’m looking to collaborate on опинаи
@@ -13,4 +7,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: TG
 - 😄 Pronouns: мяу.мур.меавуваыывф
 - ⚡ Fun fact: я хочу есть красную икру ложками
+
+<!--
+**nekzin/nekzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
