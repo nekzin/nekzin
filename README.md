@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on КУРСАЧ
+- 🔭 I’m currently working on ДЕМОЭКЗАМИН
 - 🌱 I’m currently learning СИШАРП
 - 👯 I’m looking to collaborate on опинаи
 - 🤔 I’m looking for help with asp.net
