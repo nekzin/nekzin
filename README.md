@@ -1,17 +1,53 @@
-## Hi there 👋
-- 🔭 I’m currently working on ДЕМОЭКЗАМИН
-- 🌱 I’m currently learning СИШАРП
-- 👯 I’m looking to collaborate on опинаи
-- 🤔 I’m looking for help with asp.net
-- 💬 Ask me about КОГДА Я БУДУ КОПАТЬ ГРАБЛЯМИ
-- 📫 How to reach me: TG
-- 😄 Pronouns: мяу.мур.меавуваыывф
-- ⚡ Fun fact: я хочу есть красную икру ложками
+# Анна Долгушина
 
-<!--
-**nekzin/nekzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Project Manager с техническим бэкграундом в разработке. Учусь на финальном курсе по направлению «Информационные системы и программирование» и развиваюсь в управлении IT-проектами.
 
-Here are some ideas to get you started:
+Мне интересно работать на стыке продукта, разработки и коммуникации: разбирать требования, декомпозировать задачи, вести backlog, синхронизировать команду и доводить работу до понятного результата.
 
+## Чем могу быть полезна
 
--->
+- Ведение задач и backlog в Jira / Kanban
+- Планирование спринтов, декомпозиция задач, контроль сроков
+- Коммуникация между командой разработки и заказчиком / руководителем
+- Подготовка пользовательских историй, acceptance criteria и проектной документации
+- Базовое понимание SDLC, Agile / Scrum и разработки приложений
+
+## Технический бэкграунд
+
+- C#, WPF, ASP.NET MVC
+- HTML / CSS
+- SQL и базы данных
+- Git / GitHub: репозитории, коммиты, ветки, pull requests
+- Microsoft Office, Google Docs, Miro, Jira
+
+## Избранные проекты
+
+### Task Management Web System
+
+PM-симуляция проекта по разработке веб-системы управления задачами.
+
+В проекте оформлены ключевые артефакты менеджера проекта: project charter, backlog, user stories, sprint plan, risk register и acceptance criteria.
+
+[Открыть репозиторий](https://github.com/nekzin/task-management-pm-project)
+
+### BakaBazaar
+
+Учебный проект интернет-магазина на ASP.NET MVC. Проект помог мне лучше понять жизненный цикл разработки, архитектуру веб-приложений, работу с требованиями и связь между задачами разработки и пользовательской ценностью.
+
+[Открыть репозиторий](https://github.com/nekzin/BakaBazaar)
+
+### Анализ электросигналов
+
+Командный дипломный проект. Веду доску в Jira, распределяю задачи, контролирую дедлайны и синхронизирую статус проекта с научным руководителем.
+
+## Сейчас развиваюсь в
+
+- Project Management в IT
+- Product thinking и CustDev
+- AI-инструментах для планирования, анализа и подготовки спецификаций
+- Асинхронной коммуникации и качественной постановке задач
+
+## Контакты
+
+- Telegram: [@nekzin](https://t.me/nekzin)
+- Email: dolgushina20060604@gmail.com
